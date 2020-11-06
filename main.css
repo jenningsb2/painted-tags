@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Space+Mono&display=swap");
 div,
 textarea {
-  font-family: "Roboto Mono", sans-serif;
+  font-family: "Roboto Mono", sans-serif !important;
 }
 .level2 {
   font-family: "Roboto Mono", sans-serif !important;
